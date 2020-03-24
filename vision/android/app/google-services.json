@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "410866189156",
+    "firebase_url": "https://fullet-2d91c.firebaseio.com",
+    "project_id": "fullet-2d91c",
+    "storage_bucket": "fullet-2d91c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410866189156:android:33dd35f717ea90562f7071",
+        "android_client_info": {
+          "package_name": "uz.datalab.vision"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410866189156-n4en2frs8kcv7na9pf7rrgaacc02q6f8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFlA-EavF9tw2GYZRaIcIU3HnISQ98ldg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410866189156-n4en2frs8kcv7na9pf7rrgaacc02q6f8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "410866189156-to10b97q8q6rlahno4v64ea0cmij78op.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.faceTry"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
